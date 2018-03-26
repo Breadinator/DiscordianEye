@@ -1,0 +1,11 @@
+{
+  "name": "discordianeye",
+  "version": "1.0.0",
+  "description": "Keepin' an eye on Discord",
+  "main": "index.js",
+  "author": "Breadinator",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
