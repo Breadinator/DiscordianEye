@@ -1,6 +1,8 @@
 {
 	"token": "BOT TOKEN",
 	"prefix": "i!",
-	"reportEmoji": x,
-	"reportChannel": y
+
+	"db": {
+		"location": "./db.sqlite"
+	}
 }
