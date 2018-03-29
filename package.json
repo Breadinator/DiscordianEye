@@ -1,6 +1,6 @@
 {
   "name": "discordianeye",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Keepin' an eye on Discord",
   "main": "index.js",
   "author": "Breadinator",
